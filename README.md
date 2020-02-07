@@ -1,5 +1,7 @@
 # Welcome to Nani-Games!
 
+[![Website lbesson.bitbucket.org](https://img.shields.io/website-up-down-green-red/http/lbesson.bitbucket.org.svg)](https://www.nani-games.net/)
+
 Hi! We're Nani-Games! As you may have noticed, we are a little programming community. Our team members are students and pupils, who found fun in writing games. At this moment we are developing our homepage and our first game demo. For sneak peakes and updates follow us on twitter ( [@nanigames_](https://twitter.com/nanigames_) ) or on instagram ( [@officialnanigames](https://www.instagram.com/officialnanigames/) ). If you are interested, read more below.
 
 ## FAQ
