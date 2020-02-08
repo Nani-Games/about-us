@@ -13,13 +13,13 @@ Nani-Games is a developer community. It was created in the year 2017, on the 9th
 
 ### W-w-what do you guys do? And how?
 
-Nani is a place where members of the team can release games and present them to the whole world. The ppossibilities aren't limited and we don't focus on a specific programming language. The majority of our team members uses Unity and C# to make games but however we do have some ppeople who work with Unreal Engine and C++ or even GameMaker Studio 2. As we said before, Nani doesn't have limitations. So it's the developers decision how his/her game should look like. None of the members or leaders will interfere on that and they won't command you to use certain ideas or anything, as long the game isn't against certain rules and has a basic structure.
+Nani is a place where members of the team can release games and present them to the whole world. The possibilities aren't limited and we don't focus on a specific programming language. The majority of our team members uses Unity and C# to make games but however we do have some ppeople who work with Unreal Engine and C++ or even GameMaker Studio 2. As we said before, Nani doesn't have limitations. So it's the developers decision how his/her game should look like. None of the members or leaders will interfere on that and they won't command you to use certain ideas or anything, as long the game isn't against certain rules and has a basic structure.
 By basic structure we mean a constant/stable framework, the usage of original material and a working game. If your game doesn't work as planned, e.g. sequences don't load or anything like this, the game wouldn't be released until the issues have been fixed.
 We're pretty considered about the games we release and won't present anything to players until it's done.
 
 ### Ouhhh... How can I get in touch with you?
 
-You are welcome! Join our [discord group](https://www.nani-games.net/discord) or follow us on social media to receive lates news to up coming games, take part on polls or giveaways, receive announcements/events and much more! If you're desperate to join our team you can apply to this e-mail: apply@nani-games.net. We're currently searching the following professions:
+You are welcome! Join our [discord group](https://www.nani-games.net/discord) or follow us on social media ( scroll down to get a list of them ) to receive lates news to up coming games, take part on polls or giveaways, receive announcements/events and much more! If you're desperate to join our team you can apply to this e-mail: apply@nani-games.net. We're currently searching the following professions:
 
  - graphic designers (2D, 3D, Animations)
  - musicians (Different styles, e.g. mystic, happy, remixes, eurobeat, pop, ...)
@@ -30,6 +30,8 @@ You are welcome! Join our [discord group](https://www.nani-games.net/discord) or
 ## Discord Commands
 
 Below you can see the discord commands for normal users. The team members can get their commands in the team-chat by typing `+help` there and not in the bot-commands channel.
+
+( ! ) = Outdated or not longer supported
 
 Command                          |Explaination                         |
 -------------------------------|-----------------------------|
@@ -43,6 +45,8 @@ Command                          |Explaination                         |
 `+twitch`            |Returns the official twitch account            |
 `+instagram`            |Returns the official instagram account            |
 `+serverinfo`            |Returns all important server information            |
+
+Psssst! There are some secret commands.. But pssst!
 
 ## Social Media
 
