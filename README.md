@@ -45,6 +45,12 @@ Command                          |Explaination                         |
 `+twitch`            |Returns the official twitch account            |
 `+instagram`            |Returns the official instagram account            |
 `+serverinfo`            |Returns all important server information            |
+`+roll`            |Starts rolling game            |
+`+defuse`            |Starts defusing game            |
+`+bet`            |Starts bet game            |
+`+karma`            |Returns your karma            |
+`+gift <USER> <AMOUNT>`            |Gifts your karma to another user            |
+`+toplist`            |Returns the top karma-players            |
 
 Psssst! There are some secret commands.. But pssst!
 
