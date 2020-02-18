@@ -47,7 +47,8 @@ Command                          |Explaination                         |
 `+serverinfo`            |Returns all important server information            |
 `+roll`            |Starts rolling game            |
 `+defuse`            |Starts defusing game            |
-`+bet`            |Starts bet game            |
+`+bet`            |Starts betting game            |
+`+duel`            |Starts duel game            |
 `+karma`            |Returns your karma            |
 `+gift <USER> <AMOUNT>`            |Gifts your karma to another user            |
 `+toplist`            |Returns the top karma-players            |
