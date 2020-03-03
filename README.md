@@ -49,6 +49,7 @@ Command                          |Explaination                         |
 `+defuse`            |Starts defusing game            |
 `+bet`            |Starts betting game            |
 `+duel`            |Starts duel game            |
+`+pot`            |Starts pot game            |
 `+karma`            |Returns your karma            |
 `+gift <USER> <AMOUNT>`            |Gifts your karma to another user            |
 `+toplist`            |Returns the top karma-players            |
