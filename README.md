@@ -50,6 +50,7 @@ Command                          |Explaination                         |
 `+bet`            |Starts betting game            |
 `+duel`            |Starts duel game            |
 `+pot`            |Starts pot game            |
+`+beam`            |Starts beam game            |
 `+karma`            |Returns your karma            |
 `+gift <USER> <AMOUNT>`            |Gifts your karma to another user            |
 `+toplist`            |Returns the top karma-players            |
